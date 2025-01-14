@@ -4,8 +4,8 @@ public class OddOrEven {
 
     public static void main(String[] args) {
 
-        //identifyOddOrEven(3)
-        //identifyOddOrEven(4)
+
+
     }
 
     public static void identifyOddOrEven(int number) {
