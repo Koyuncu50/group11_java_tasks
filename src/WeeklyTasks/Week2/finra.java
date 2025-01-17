@@ -1,5 +1,7 @@
 package WeeklyTasks.Week2;
 
+import java.lang.reflect.Array;
+
 public class finra {
     public static void main(String[] args) {
         //Write a method which prints out the numbers from 1 to 30 but for numbers which are a multiple of 3,
@@ -11,8 +13,9 @@ public class finra {
     }
 
     public static void FINRA() {
-
     }
-
-
 }
+
+
+
+
