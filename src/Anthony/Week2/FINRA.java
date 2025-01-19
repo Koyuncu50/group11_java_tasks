@@ -3,6 +3,7 @@ package Anthony.Week2;
 public class FINRA {
 
     public static void main(String[] args) {
+        //FINRA task
 
         for (int i = 1; i <= 30; i++) {
             if (i % 3 == 0 && i % 5 == 0) {
