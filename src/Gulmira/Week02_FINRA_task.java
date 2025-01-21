@@ -16,6 +16,7 @@ public class Week02_FINRA_task {
         }
 
     }
+
 }
 /*
 number i am going to test number 1 to 50, if number divisible 3 and 5 print "PINRA",
