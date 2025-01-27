@@ -3,7 +3,7 @@ package Rajae.week3;
 public class SwapTwoNumbers {
     public static void main(String[] args) {
 
-        swapTwoNumbers(10,50);
+        swapTwoNumbers(5,10);
 
     }
 
