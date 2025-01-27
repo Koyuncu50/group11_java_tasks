@@ -1,6 +1,6 @@
-package Rajae;
+package Rajae.Week1;
 
-public class Week1 {
+public class OddEvenMethod {
 
     public static void main(String[] args) {
         int number =20;
