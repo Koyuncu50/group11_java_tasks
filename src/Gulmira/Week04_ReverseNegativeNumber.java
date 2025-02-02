@@ -15,13 +15,14 @@ public class Week04_ReverseNegativeNumber {
         String numStr = Integer.toString(num);
 
         //#2. Initialize an empty string for reversed number
-        String reversedStr = "";
+        StringBuilder reversedStr = new StringBuilder();
 
         //#3. Loop through the number string in reverse order (ignoring the '-' sign)
         for (int i = numStr.length() - 1; i > 0; i--) {
 
             // #4.Add each character in reverse order
-            reversedStr += numStr.charAt(i);
+            reversedStr.append(numStr.charAt(i));
+
         }
 
         // #5. Convert the reversed string back to integer and add the negative sign
