@@ -11,8 +11,8 @@ public class FrequencyOfCharacter {
 
         String str= "AAABBCDD";
         System.out.println("frequency Of Characters: " + frequencyOfChars(str));
-
     }
+
     public static String frequencyOfChars(String str){
         str= str.replace(" ","").toUpperCase();
         char[] chars = str.toCharArray();
