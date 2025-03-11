@@ -5,6 +5,7 @@ public class FindUnique {
     public static String findUnique(String str) {
         String result = ""; //store unique characters
 
+
         for (int i = 0; i < str.length(); i++) {//AAABBBCCCDEF
             char currentChar = str.charAt(i);// gets you the current char
 
